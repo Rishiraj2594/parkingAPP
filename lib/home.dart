@@ -15,7 +15,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Smart Parking"),
+        title: const Text("Parking!"),
       ),
       body: Column(
         children: [
