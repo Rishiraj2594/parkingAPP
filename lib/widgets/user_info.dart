@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:parking_system/data/dummy_data.dart';
-import 'package:parking_system/widgets/parking_slots.dart';
 
 class UserInfo extends StatelessWidget {
   const UserInfo({super.key});

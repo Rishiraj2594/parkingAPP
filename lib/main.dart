@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:parking_system/home.dart';
-import 'package:parking_system/widgets/parking_slots.dart';
 
 void main() async {
   runApp(const App());
